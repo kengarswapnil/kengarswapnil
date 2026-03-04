@@ -1,9 +1,10 @@
 <h1 align="center">🚀 Swapnil Kengar</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+MERN+Developer;CGPA+9.45+Computer+Science+Engineer;Backend+Specialist+%7C+JWT+Authentication;Building+Scalable+Web+Applications;Future+Software+Engineer+🚀" />
-</p>
+<h1 align="center">🚀 Swapnil Kengar</h1>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Computer+Science+Student;CGPA+9.45;Quick+Learner+%7C+Consistent+Performer;Solving+Real+World+Problems+Through+Code;DSA+Enthusiast+%7C+Daily+Practice+🚀" />
+</p>
 ---
 
 # 🧠 About Me
