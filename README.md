@@ -6,14 +6,6 @@
 
 ---
 
-# 🌌 Dynamic Developer Card
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kengarswapnil&theme=algolia&no-frame=true&margin-w=10&row=1"/>
-</p>
-
----
-
 # 🧠 About Me (Animated Tech)
 
 <p align="center">
@@ -63,14 +55,6 @@
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kengarswapnil&theme=tokyo-night&hide_border=true"/>
-</p>
-
----
-
-# 🐍 Contribution Snake Animation
-
-<p align="center">
-  <img src="https://github.com/kengarswapnil/kengarswapnil/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
