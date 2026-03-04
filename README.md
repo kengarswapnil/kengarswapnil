@@ -6,7 +6,7 @@
 
 ---
 
-# 🧠 About Me (Animated Tech)
+# 🧠 About Me
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,javascript,react,nodejs,express,mongodb,mysql,html,css,git,github,postman,vscode&perline=6" />
