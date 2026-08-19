@@ -98,6 +98,19 @@
 
 ---
 
+## 📚 Learning Management System (LMS)
+🔗 https://lms-project-wheat-seven.vercel.app/
+
+✔ Multi-Role Authentication (Admin, Instructor, Student)  
+✔ Course & Lecture Management  
+✔ Student Enrollment & Progress Tracking  
+✔ Assignments & Quiz Management  
+✔ JWT + Bcrypt Authentication  
+✔ React + Node.js + Express.js + MongoDB  
+✔ Multer + Cloudinary for File Uploads
+
+------------
+
 # 📊 Advanced GitHub Analytics
 
 <p align="center">
