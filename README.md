@@ -122,6 +122,25 @@
 ✔ React + Node.js + Express.js + MongoDB
 ✔ REST API Integration
 
+------
+
+## 🎟️ Ticket Booking Website
+
+🔗 https://ticket-booking-ng6i8xqno-swapnil-kengar-s-projects.vercel.app/
+
+✔ User Registration & Authentication
+✔ JWT-based Authentication & Authorization
+✔ Event Creation & Management
+✔ Event Listing & Details
+✔ Ticket Booking & Seat Management
+✔ Booking & Order Management
+✔ Admin Dashboard
+✔ Secure Password Hashing with Bcrypt
+✔ React + Node.js + Express.js + MongoDB
+✔ REST API Integration
+✔ Responsive & User-Friendly Interface
+
+
 
 
 
